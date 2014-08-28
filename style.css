@@ -1,9 +1,19 @@
-body {
-	background-color: #42f453;
+html {
+	background-image: url(20140612_202707.jpg);
+	background-size: 1400px;
 }
 
-h3, h2, h4 {
-	color: blue;
+body {
+	text-align: center;
+font-style: arial;
+font-size: 28px;
+width: 200;
+color: red;
+}
+
+h1,h2,h3,h4,h5,h6 {
+
+	font-size: 40px;
 }
 
 a {
