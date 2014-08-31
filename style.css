@@ -1,6 +1,5 @@
 html {
-	background-image: url(20140612_202707.jpg);
-	background-size: 1400px;
+	background-color: black;
 }
 
 body {
@@ -8,14 +7,64 @@ body {
 font-style: arial;
 font-size: 28px;
 width: 200;
-color: red;
+color: green;
+}
+img {
+width: 1323px;
+height: 300px;
+border: 10px solid green;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
 
 	font-size: 40px;
 }
-
-a {
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+	padding:center;
+}
+span{
 	color: red;
+	font-style: bold;
+}
+.p{
+	text-align: center;
+	font-size: 180px;
+}
+.p2{
+	color: yellow;
+	padding: 0px 40px;
+}
+.p3{
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+}
+.p4{
+padding: center;
+text-align: center;
+color: #00FF00;
+font-size: 40px;
+
+}
+.link1{
+	text-align: center;
+ 	padding:center; 
+	
+	font-size: 25px;	
+}
+
+.link2{
+	
+	font-size: 25px;
+}
+
+.url{
+	font-size: 180px;
+	color: white;
+	text-align: center;
+	padding: center;
 }
